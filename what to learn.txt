@@ -1,0 +1,19 @@
+- next-auth
+- ReactQuery
+- Formik
+- zustand
+- react-simple-modal-provider
+- react-modern-drawer
+- prisma
+- strapi
+- 
+
+
+
+== UI Libraries
+- React Tabs
+	https://reactcommunity.org/react-tabs/
+	https://www.npmjs.com/package/react-tabs
+- 
+- 
+- 
